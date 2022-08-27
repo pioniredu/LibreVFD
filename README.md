@@ -9,3 +9,14 @@ Goal of LibreVFD is to provide an open, affordable, replicable programmable VFD 
 - Design PCB
 - Design casing and cooling
 - Investigate PowerMOSFET vs IGBT performance
+
+## Preliminary BOM
+ item | amount | price per item | total price 
+--- | --- | --- | --- 
+STM32F4xx | 1 | 10 $ | 10 $
+G30N60A IGBT | 6 | 4 $ | 24 $
+400V electrolytic radial leaded capactior | 2 | 4 $ | 8 $
+FAN73893 transistor driver | 1 | 3 $ | 3 $
+DB15-06 three phase rectifier | 1 | 8 $ | 8 $
+300 ohm resistor | 6 | 0.008 $ | 0.048 $
+470 nanofarad capacitor | 3 | 0.015 $ | 0.045 $
