@@ -15,7 +15,7 @@ Goal of LibreVFD is to provide an open, affordable, replicable programmable VFD 
 --- | --- | --- | --- 
 STM32F4xx | 1 | 10 $ | 10 $
 G30N60A IGBT | 6 | 4 $ | 24 $
-400V electrolytic radial leaded capactior | 2 | 4 $ | 8 $
+400V electrolytic radial leaded capacitor | 2 | 4 $ | 8 $
 FAN73893 transistor driver | 1 | 3 $ | 3 $
 DB15-06 three phase rectifier | 1 | 8 $ | 8 $
 300 ohm resistor | 6 | 0.008 $ | 0.048 $
