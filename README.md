@@ -20,3 +20,4 @@ FAN73893 transistor driver | 1 | 3 $ | 3 $
 DB15-06 three phase rectifier | 1 | 8 $ | 8 $
 300 ohm resistor | 6 | 0.008 $ | 0.048 $
 470 nanofarad capacitor | 3 | 0.015 $ | 0.045 $
+All components total | | | 53.093 $
